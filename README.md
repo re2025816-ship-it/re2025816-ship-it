@@ -9,7 +9,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I am a Computer Engineering student 🎓 at **Nahda University <a href="https://iusr.university/" target="_blank"><img src="https://iusr.university/wp-content/uploads/2023/07/dGaYxhL.png" alt="Nahda University Logo" width="50px"></a> , and a technology enthusiast 💻 😃.
+I am a Computer Engineering student 🎓 at <bold>Nahda University</bold> <a href="https://iusr.university/" target="_blank"><img src="https://iusr.university/wp-content/uploads/2023/07/dGaYxhL.png" alt="Nahda University Logo" width="50px"></a> , and a technology enthusiast 💻 😃.
 I have a deep passion for learning new technologies and working with them.
 I also love building exciting and impressive products that serve highly valuable objectives.
 
