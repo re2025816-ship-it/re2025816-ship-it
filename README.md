@@ -40,7 +40,7 @@ I also love building exciting and impressive products that serve highly valuable
 
 
 
-<!--
+
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 pic on right
@@ -71,5 +71,3 @@ language badges:
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-
--->
