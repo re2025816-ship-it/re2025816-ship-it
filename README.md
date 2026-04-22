@@ -9,8 +9,9 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.edu/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-
+I am a Computer Engineering student 🎓 at Nahda University <img src="file:///C:/Users/kh/Downloads/photos/logo-iusr-b-main.jpg" width="50"> , and a technology enthusiast 💻 😃.
+I have a deep passion for learning new technologies and working with them.
+I also love building exciting and impressive products that serve highly valuable objectives.
 
 
 
